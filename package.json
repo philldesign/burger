@@ -1,0 +1,29 @@
+{
+  "name": "burgermonster",
+  "version": "1.0.1",
+  "description": "feed the server with delicious thoughts",
+  "main": "server.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philldesign/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "handlebars",
+    "database"
+  ],
+  "author": "philldesign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philldesign/burger/issues"
+  },
+  "homepage": "https://github.com/philldesign/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
